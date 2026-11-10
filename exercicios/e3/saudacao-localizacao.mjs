@@ -9,3 +9,4 @@ export function saudarComLocalizacao(nome, ponto = minhaLocalizacao) {
 }
 
 console.log(saudarComLocalizacao("Ana"));
+// Ajuste na mensagem de saudação
